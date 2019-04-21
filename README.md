@@ -1,29 +1,6 @@
-# test-elementui
+# Vue.js + Elelment UI + Lottie
+Vue.js + Elelment UI + Lottieを用いたログイン画面の実装
 
-## Project setup
-```
-npm install
-```
+こちらのページを元に練習として作ってみました。
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[Vue.js + Elelment UI + Lottieでお手軽にいい感じなUI/UXを作ってみる](https://tech.smartcamp.co.jp/entry/2019/04/18/184533)
